@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, I'm Gilberto
+
+I am a IT student with a passion for coding and learning new tech.
+
+Languages and Skills: Python, Java and SQL
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jvniorgc/)](https://github.com/jvniorgc/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= linkedin.com/in/gilberto-cardozo-16593020b/)](linkedin.com/in/gilberto-cardozo-16593020b/)
 
 <!--
 **jvniorgc/jvniorgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
