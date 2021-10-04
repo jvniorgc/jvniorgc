@@ -1,7 +1,5 @@
 ### Hello, I'm Gilberto
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
 I am a IT student with a passion for coding and learning new tech.
 
 Languages and Skills: Python, Java and SQL
