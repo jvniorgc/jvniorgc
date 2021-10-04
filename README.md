@@ -8,7 +8,7 @@ Languages and Skills: Python, Java and SQL
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jvniorgc/)](https://github.com/jvniorgc/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= linkedin.com/in/gilberto-cardozo-16593020b/)](linkedin.com/in/gilberto-cardozo-16593020b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= linkedin.com/in/www.linkedin.com/in/jvniorgc)](linkedin.com/in/jvniorgc)
 
 <!--
 **jvniorgc/jvniorgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
