@@ -12,6 +12,7 @@ Languages and Skills: Python, Java and SQL
 
 [![jvniorgc GitHub stats](https://github-readme-stats.vercel.app/api?username=jvniorgc)](https://github.com/jvniorgc/github-readme-stats)
 
+<img src="https://cdn.discordapp.com/attachments/704563077332467746/894586131088310372/vippng.com-berserk-png-5160021.png" />
 <!--
 **jvniorgc/jvniorgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
