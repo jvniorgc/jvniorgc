@@ -4,7 +4,7 @@ I am a IT student with a passion for coding and learning new tech.
 
 Languages and Skills: Python, Java and SQL
 
-## About me
+## Find me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jvniorgc/)](https://github.com/jvniorgc/)
 
